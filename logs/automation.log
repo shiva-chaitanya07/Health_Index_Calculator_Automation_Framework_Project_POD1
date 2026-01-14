@@ -1,0 +1,1000 @@
+2026-01-14 14:30:14 INFO  TC001_URL_Validation:29 - **** Starting TC001_URL_Validation ****
+2026-01-14 14:30:14 INFO  TC001_URL_Validation:31 - Navigating to the configured application URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/
+2026-01-14 14:30:14 INFO  TC001_URL_Validation:35 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/
+2026-01-14 14:30:14 INFO  TC001_URL_Validation:38 - Successfully loaded the exact configured application URL
+2026-01-14 14:30:14 INFO  TC001_URL_Validation:50 - Validating that the homepage is loaded and key UI elements are present
+2026-01-14 14:30:15 INFO  TC001_URL_Validation:52 - hiiiii true--------------------------------------------------------------
+2026-01-14 14:30:15 INFO  TC001_URL_Validation:54 - Homepage is loaded successfully with navbar, left image, and calculator fields
+2026-01-14 14:30:15 INFO  TC001_URL_Validation:59 - **** Finished TC001_URL_Validation ****
+2026-01-14 14:30:24 INFO  TC002_HomePageValidationTest:26 - **** Started TC002_HomePageValidationTest ****
+2026-01-14 14:30:24 INFO  TC002_HomePageValidationTest:28 - Navigating to homepage
+2026-01-14 14:30:24 INFO  TC002_HomePageValidationTest:32 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:30:24 INFO  TC002_HomePageValidationTest:34 - Successfully navigated to homepage
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:110 - Navigating to Heart Pulse page from Home
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:113 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:115 - Successfully navigated to Heart Pulse section
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:44 - Validating the image in the left frame on Home page
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:46 - Left image is present
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:125 - Navigating to Blood Pressure page from Home
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:128 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:130 - Successfully navigated to Blood Pressure section
+2026-01-14 14:30:25 INFO  TC002_HomePageValidationTest:56 - Validating the calculator form heading on Home page
+2026-01-14 14:30:26 INFO  TC002_HomePageValidationTest:58 - Form heading is present
+2026-01-14 14:30:26 INFO  TC002_HomePageValidationTest:140 - Navigating to Age Factor page from Home
+2026-01-14 14:30:26 INFO  TC002_HomePageValidationTest:143 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:30:26 INFO  TC002_HomePageValidationTest:145 - Successfully navigated to Age Factor section
+2026-01-14 14:30:26 INFO  TC002_HomePageValidationTest:68 - Validating the fields in the calculator form on Home page
+2026-01-14 14:30:26 INFO  TC002_HomePageValidationTest:70 - All required calculator form fields are present
+2026-01-14 14:30:26 INFO  TC002_HomePageValidationTest:155 - Navigating to Team Details page from Home
+2026-01-14 14:30:27 INFO  TC002_HomePageValidationTest:158 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:30:27 INFO  TC002_HomePageValidationTest:160 - Successfully navigated to Team Details section
+2026-01-14 14:30:27 INFO  TC002_HomePageValidationTest:80 - Validating the presence of the top navigation bar on Home page
+2026-01-14 14:30:27 INFO  TC002_HomePageValidationTest:82 - Top navigation bar is present
+2026-01-14 14:30:27 INFO  TC002_HomePageValidationTest:87 - **** Finished TC002_HomePageValidationTest ****
+2026-01-14 14:30:27 INFO  TC002_HomePageValidationTest:170 - Navigating to Home page via logo text
+2026-01-14 14:30:28 INFO  TC002_HomePageValidationTest:173 - Current URL after navigating via logo text: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:30:28 INFO  TC002_HomePageValidationTest:175 - Successfully navigated to Home via logo text
+2026-01-14 14:30:28 INFO  TC002_HomePageValidationTest:180 - **** Finished TC003_HomePageFunctionalityTest ****
+2026-01-14 14:30:37 INFO  TC003_HeartPulsePageValidationTest:24 - **** Started TC004_HeartPulsePageValidationTest ****
+2026-01-14 14:30:37 INFO  TC003_HeartPulsePageValidationTest:26 - Navigating to Heart Pulse section
+2026-01-14 14:30:37 INFO  TC003_HeartPulsePageValidationTest:29 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:30:37 INFO  TC003_HeartPulsePageValidationTest:31 - Successfully navigated to Heart Pulse section
+2026-01-14 14:30:37 INFO  TC003_HeartPulsePageValidationTest:118 - Navigating to Home section from Heart Pulse page
+2026-01-14 14:30:38 INFO  TC003_HeartPulsePageValidationTest:121 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:30:38 INFO  TC003_HeartPulsePageValidationTest:123 - Successfully navigated to Home section
+2026-01-14 14:30:38 INFO  TC003_HeartPulsePageValidationTest:41 - Validating the presence of top navigation bar on Heart Pulse page
+2026-01-14 14:30:38 INFO  TC003_HeartPulsePageValidationTest:43 - Top navigation bar is present
+2026-01-14 14:30:38 INFO  TC003_HeartPulsePageValidationTest:133 - Navigating to Blood Pressure section from Heart Pulse/Home
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:136 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:138 - Successfully navigated to Blood Pressure section
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:53 - Validating the main heading on Heart Pulse page
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:55 - Main heading is present
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:148 - Navigating to Age Factor section
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:151 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:153 - Successfully navigated to Age Factor section
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:65 - Validating the sub-heading on Heart Pulse page
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:67 - Sub-heading is present
+2026-01-14 14:30:39 INFO  TC003_HeartPulsePageValidationTest:163 - Navigating to Team Details section
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:166 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:168 - Successfully navigated to Team Details section
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:173 - **** Finished TC005_HeartPulseFunctionalityTest ****
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:77 - Validating the informational text/description on Heart Pulse page
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:79 - Informational text is present
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:89 - Validating the pulse rate table on Heart Pulse page
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:91 - Pulse rate table is present
+2026-01-14 14:30:40 INFO  TC003_HeartPulsePageValidationTest:96 - **** Finished TC004_HeartPulsePageValidationTest ****
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:26 - **** Started TC006_BloodPressurePageValidationTest ****
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:28 - Navigating to Blood Pressure section via top navigation
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:31 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:33 - Successfully navigated to Blood Pressure section
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:96 - Navigating to Home section from Blood Pressure page
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:99 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:101 - Successfully navigated to Home section
+2026-01-14 14:30:49 INFO  TC004_BloodPressurePageValidationTest:43 - Validating the presence of the top navigation bar on Blood Pressure page
+2026-01-14 14:30:50 INFO  TC004_BloodPressurePageValidationTest:45 - Top navigation bar is present on Blood Pressure page
+2026-01-14 14:30:50 INFO  TC004_BloodPressurePageValidationTest:111 - Navigating to Heart Pulse section from Blood Pressure/Home
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:114 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:116 - Successfully navigated to Heart Pulse section
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:55 - Validating the main heading on Blood Pressure page
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:57 - Main heading is present on Blood Pressure page
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:126 - Navigating to Age Factor section from Blood Pressure/Heart Pulse
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:129 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:131 - Successfully navigated to Age Factor section
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:67 - Validating the informational content/description on Blood Pressure page
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:69 - Informational content is present on Blood Pressure page
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:74 - **** Finished TC006_BloodPressurePageValidationTest ****
+2026-01-14 14:30:51 INFO  TC004_BloodPressurePageValidationTest:141 - Navigating to Team Details section
+2026-01-14 14:30:52 INFO  TC004_BloodPressurePageValidationTest:144 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:30:52 INFO  TC004_BloodPressurePageValidationTest:146 - Successfully navigated to Team Details section
+2026-01-14 14:30:52 INFO  TC004_BloodPressurePageValidationTest:151 - **** Finished TC007_BloodPressureFunctionalityTest ****
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:26 - **** Started TC008_AgeFactorPageValidation ****
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:28 - Navigating to Age Factor section via top navigation
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:31 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:33 - Successfully navigated to Age Factor section
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:96 - Navigating to Home section from Age Factor page
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:99 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:101 - Successfully navigated to Home section
+2026-01-14 14:31:01 INFO  TC005_AgeFactorPageValidation:43 - Validating the presence of the top navigation bar on Age Factor page
+2026-01-14 14:31:02 INFO  TC005_AgeFactorPageValidation:45 - Top navigation bar is present on Age Factor page
+2026-01-14 14:31:02 INFO  TC005_AgeFactorPageValidation:111 - Navigating to Heart Pulse section from Age Factor/Home
+2026-01-14 14:31:02 INFO  TC005_AgeFactorPageValidation:114 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:31:02 INFO  TC005_AgeFactorPageValidation:116 - Successfully navigated to Heart Pulse section
+2026-01-14 14:31:02 INFO  TC005_AgeFactorPageValidation:55 - Validating the main heading on Age Factor page
+2026-01-14 14:31:02 INFO  TC005_AgeFactorPageValidation:57 - Main heading is present on Age Factor page
+2026-01-14 14:31:02 INFO  TC005_AgeFactorPageValidation:126 - Navigating to Blood Pressure section from Age Factor/Heart Pulse
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:129 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:131 - Successfully navigated to Blood Pressure section
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:67 - Validating the informational content/description on Age Factor page
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:69 - Informational content is present on Age Factor page
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:74 - **** Finished TC008_AgeFactorPageValidation ****
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:141 - Navigating to Team Details section from Age Factor
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:144 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:146 - Successfully navigated to Team Details section
+2026-01-14 14:31:03 INFO  TC005_AgeFactorPageValidation:151 - **** Finished TC009_AgeFactorPageFunctionalityValidation ****
+2026-01-14 14:31:12 INFO  TC006_TeamDetailsPageValidation:26 - **** Started TC010_TeamDetailsPageValidation ****
+2026-01-14 14:31:12 INFO  TC006_TeamDetailsPageValidation:28 - Navigating to Team Details section via top navigation
+2026-01-14 14:31:12 INFO  TC006_TeamDetailsPageValidation:31 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:31:12 INFO  TC006_TeamDetailsPageValidation:33 - Successfully navigated to Team Details section
+2026-01-14 14:31:12 INFO  TC006_TeamDetailsPageValidation:96 - Navigating to Home section from Team Details page
+2026-01-14 14:31:12 INFO  TC006_TeamDetailsPageValidation:99 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:31:12 INFO  TC006_TeamDetailsPageValidation:101 - Successfully navigated to Home section
+2026-01-14 14:31:13 INFO  TC006_TeamDetailsPageValidation:43 - Validating the presence of the top navigation bar on Team Details page
+2026-01-14 14:31:13 INFO  TC006_TeamDetailsPageValidation:45 - Top navigation bar is present on Team Details page
+2026-01-14 14:31:13 INFO  TC006_TeamDetailsPageValidation:111 - Navigating to Blood Pressure section from Team Details/Home
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:114 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:116 - Successfully navigated to Blood Pressure section
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:55 - Validating the main heading on Team Details page
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:57 - Main heading is present on Team Details page
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:126 - Navigating to Heart Pulse section from Team Details/Blood Pressure
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:129 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:131 - Successfully navigated to Heart Pulse section
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:67 - Validating that team member details are displayed on Team Details page
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:69 - Team details are displayed on Team Details page
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:74 - **** Finished TC010_TeamDetailsPageValidation ****
+2026-01-14 14:31:14 INFO  TC006_TeamDetailsPageValidation:141 - Navigating to Age Factor section from Team Details/Heart Pulse
+2026-01-14 14:31:15 INFO  TC006_TeamDetailsPageValidation:144 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:31:15 INFO  TC006_TeamDetailsPageValidation:146 - Successfully navigated to Age Factor section
+2026-01-14 14:31:15 INFO  TC006_TeamDetailsPageValidation:151 - **** Finished TC011_TeamDetailsFunctionalityValidation ****
+2026-01-14 14:31:27 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:27 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 0 | Pulse: 60 | BP: 70/31 | Type: Negative | Expected: Positive
+2026-01-14 14:31:27 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 0
+2026-01-14 14:31:28 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 60
+2026-01-14 14:31:28 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 70/31
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 1 | Pulse: 72 | BP: 120/80 | Type: Positive | Expected: Positive
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 1
+2026-01-14 14:31:29 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:31:30 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 120/80
+2026-01-14 14:31:30 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:31 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 69.5 | Pulse: 25 | BP: 160/91 | Type: Negative | Expected: Negative
+2026-01-14 14:31:34 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 69.5
+2026-01-14 14:31:35 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 25
+2026-01-14 14:31:35 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 160/91
+2026-01-14 14:31:35 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:36 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: -20 | Pulse: 26 | BP: 170/90 | Type: Negative | Expected: Positive
+2026-01-14 14:31:40 INFO  TC007_CalculatorValidationTest:96 - Entering Age: -20
+2026-01-14 14:31:41 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 26
+2026-01-14 14:31:41 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 170/90
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 130 | Pulse: 27 | BP: 140/60 | Type: Negative | Expected: Positive
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 130
+2026-01-14 14:31:42 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 27
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/60
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: abc | Pulse: 85 | BP: 135/70 | Type: Negative | Expected: Positive
+2026-01-14 14:31:43 INFO  TC007_CalculatorValidationTest:96 - Entering Age: abc
+2026-01-14 14:31:44 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 85
+2026-01-14 14:31:44 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 135/70
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 25 | Pulse: 60 | BP: 160/70 | Type: Positive | Expected: Positive
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 25
+2026-01-14 14:31:45 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 60
+2026-01-14 14:31:46 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 160/70
+2026-01-14 14:31:46 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:47 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 25 | Pulse: -25 | BP: 165/75 | Type: Negative | Expected: Negative
+2026-01-14 14:31:50 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 25
+2026-01-14 14:31:51 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: -25
+2026-01-14 14:31:51 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 165/75
+2026-01-14 14:31:51 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:52 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:31:55 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:56 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:56 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 45 | Pulse: abc | BP: 130/85 | Type: Negative | Expected: Positive
+2026-01-14 14:31:56 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 45
+2026-01-14 14:31:56 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: abc
+2026-01-14 14:31:57 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 130/85
+2026-01-14 14:31:57 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:57 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:31:57 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:31:57 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:31:57 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:31:57 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:58 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:31:58 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 69.5 | BP: 125/82 | Type: Negative | Expected: Negative
+2026-01-14 14:31:58 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:31:58 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 69.5
+2026-01-14 14:31:58 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125/82
+2026-01-14 14:31:59 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:31:59 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 70 | BP: 140/70 | Type: Positive | Expected: Positive
+2026-01-14 14:32:03 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:32:04 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 70
+2026-01-14 14:32:04 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/70
+2026-01-14 14:32:05 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:05 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 0 | BP: 145/70 | Type: Negative | Expected: Negative
+2026-01-14 14:32:08 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:32:09 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 0
+2026-01-14 14:32:09 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 145/70
+2026-01-14 14:32:10 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:10 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:32:13 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:14 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:14 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 9000 | BP: 140/60 | Type: Negative | Expected: Negative
+2026-01-14 14:32:14 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:32:14 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 9000
+2026-01-14 14:32:15 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/60
+2026-01-14 14:32:15 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:15 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 30 | Pulse: 70 | BP: 140/70 | Type: Positive | Expected: Positive
+2026-01-14 14:32:19 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 30
+2026-01-14 14:32:20 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 70
+2026-01-14 14:32:20 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/70
+2026-01-14 14:32:21 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:21 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 29 | Pulse: 70 | BP: 120/Eighty | Type: Negative | Expected: Positive
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 29
+2026-01-14 14:32:25 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 70
+2026-01-14 14:32:26 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 120/Eighty
+2026-01-14 14:32:26 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 10 | Pulse: 62 | BP: One hundred and twenty /200 | Type: Negative | Expected: Positive
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 10
+2026-01-14 14:32:27 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 62
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: One hundred and twenty /200
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 18 | Pulse: 72 | BP: 135.5/65 | Type: Negative | Expected: Positive
+2026-01-14 14:32:28 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 18
+2026-01-14 14:32:29 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:32:29 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 135.5/65
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 18 | Pulse: 72 | BP: 155/62.7 | Type: Negative | Expected: Positive
+2026-01-14 14:32:30 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 18
+2026-01-14 14:32:31 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:32:31 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 155/62.7
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 19 | Pulse: 82 | BP: 0/0 | Type: Negative | Expected: Negative
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 19
+2026-01-14 14:32:32 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 82
+2026-01-14 14:32:33 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 0/0
+2026-01-14 14:32:33 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:34 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:32:37 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:38 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:38 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 25 | Pulse: 72 | BP: 125-82 | Type: Negative | Expected: Positive
+2026-01-14 14:32:38 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 25
+2026-01-14 14:32:38 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:32:39 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125-82
+2026-01-14 14:32:39 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 27 | Pulse: 67 | BP: /85 | Type: Negative | Expected: Positive
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 27
+2026-01-14 14:32:40 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 67
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: /85
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 27 | Pulse: 67 | BP: 125/ | Type: Negative | Expected: Positive
+2026-01-14 14:32:41 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 27
+2026-01-14 14:32:42 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 67
+2026-01-14 14:32:42 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125/
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 37 | Pulse: 77 | BP: 125/82 | Type: Positive | Expected: Positive
+2026-01-14 14:32:43 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 37
+2026-01-14 14:32:44 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 77
+2026-01-14 14:32:44 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125/82
+2026-01-14 14:32:45 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:45 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 37 | Pulse: 77 | BP: 136 | Type: Negative | Expected: Positive
+2026-01-14 14:32:48 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 37
+2026-01-14 14:32:49 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 77
+2026-01-14 14:32:49 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 136
+2026-01-14 14:32:49 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:28 - **** Started TC012_CalculatorValidationTest ****
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:30 - Validating that the calculator form heading is present
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:32 - Calculator form heading is present
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:42 - Validating that the Age field is present in the calculator form
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:44 - Age field is present
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:54 - Validating that the Pulse Rate field is present in the calculator form
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:56 - Pulse Rate field is present
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:66 - Validating that the Blood Pressure field is present in the calculator form
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:68 - Blood Pressure field is present
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:78 - Validating that the Calculate button is present and clickable
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:80 - Calculate button is present and clickable
+2026-01-14 14:32:50 INFO  TC007_CalculatorValidationTest:85 - **** Finished TC012_CalculatorValidationTest ****
+2026-01-14 14:33:01 INFO  TC008_ResultsPageValidationTest:36 - **** Started TC014_ResultsPageUITest ****
+2026-01-14 14:33:01 INFO  TC008_ResultsPageValidationTest:38 - Entering valid inputs into Calculator Form
+2026-01-14 14:33:01 INFO  TC008_ResultsPageValidationTest:39 - Entering Age: 20
+2026-01-14 14:33:02 INFO  TC008_ResultsPageValidationTest:42 - Entering Pulse Rate: 60
+2026-01-14 14:33:02 INFO  TC008_ResultsPageValidationTest:45 - Entering Blood Pressure: 120/80
+2026-01-14 14:33:02 INFO  TC008_ResultsPageValidationTest:48 - Clicking Calculate to navigate to Result page
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:52 - Current URL after clicking Calculate: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:55 - Validating Result Page UI elements
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:58 - Logo is visible
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:61 - Logo text is visible
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:64 - Result box is visible
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:67 - Heading is visible
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:70 - Result is displayed
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:73 - Feedback box is present
+2026-01-14 14:33:03 INFO  TC008_ResultsPageValidationTest:79 - **** Finished TC014_ResultsPageUITest ****
+2026-01-14 14:33:04 INFO  TC008_ResultsPageValidationTest:86 - **** Started TC015_ResultPageFunctionalityTest :: resultPageCheck iteration ****
+2026-01-14 14:33:04 INFO  TC008_ResultsPageValidationTest:87 - Input dataset => Age: 30 | Pulse: 70 | BP: 120/30
+2026-01-14 14:33:04 INFO  TC008_ResultsPageValidationTest:91 - Entering Age: 30
+2026-01-14 14:33:04 INFO  TC008_ResultsPageValidationTest:95 - Entering Pulse Rate: 70
+2026-01-14 14:33:05 INFO  TC008_ResultsPageValidationTest:98 - Entering Blood Pressure: 120/30
+2026-01-14 14:33:05 INFO  TC008_ResultsPageValidationTest:101 - Clicking Calculate to navigate to Result page
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:105 - Current URL after Calculate: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:108 - Validating redirection to Result page: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:117 - Soft assertions passed for this resultPageCheck iteration
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:122 - **** Finished TC015_ResultPageFunctionalityTest :: resultPageCheck iteration ****
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:129 - **** TC015 :: isScrollable validation started ****
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:132 - Located feedback textarea by id=feedback
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:138 - Textarea scrollHeight: 184, clientHeight: 76
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:142 - Textarea is scrollable as expected
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:157 - Soft assertions passed for isScrollable
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:162 - **** TC015 :: isScrollable validation finished ****
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:169 - **** TC015 :: isResizable validation started ****
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:172 - Located feedback textarea by id=feedback
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:175 - Textarea CSS 'resize' value: vertical
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:179 - Textarea is resizable as expected
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:194 - Soft assertions passed for isResizable
+2026-01-14 14:33:06 INFO  TC008_ResultsPageValidationTest:199 - **** TC015 :: isResizable validation finished ****
+2026-01-14 14:48:23 INFO  TC001_URL_Validation:29 - **** Starting TC001_URL_Validation ****
+2026-01-14 14:48:23 INFO  TC001_URL_Validation:31 - Navigating to the configured application URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/
+2026-01-14 14:48:23 INFO  TC001_URL_Validation:35 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/
+2026-01-14 14:48:23 INFO  TC001_URL_Validation:38 - Successfully loaded the exact configured application URL
+2026-01-14 14:48:24 INFO  TC001_URL_Validation:50 - Validating that the homepage is loaded and key UI elements are present
+2026-01-14 14:48:24 INFO  TC001_URL_Validation:52 - hiiiii true--------------------------------------------------------------
+2026-01-14 14:48:24 INFO  TC001_URL_Validation:54 - Homepage is loaded successfully with navbar, left image, and calculator fields
+2026-01-14 14:48:24 INFO  TC001_URL_Validation:59 - **** Finished TC001_URL_Validation ****
+2026-01-14 14:48:33 INFO  TC002_HomePageValidationTest:26 - **** Started TC002_HomePageValidationTest ****
+2026-01-14 14:48:33 INFO  TC002_HomePageValidationTest:28 - Navigating to homepage
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:32 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:34 - Successfully navigated to homepage
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:110 - Navigating to Heart Pulse page from Home
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:113 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:115 - Successfully navigated to Heart Pulse section
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:44 - Validating the image in the left frame on Home page
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:46 - Left image is present
+2026-01-14 14:48:34 INFO  TC002_HomePageValidationTest:125 - Navigating to Blood Pressure page from Home
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:128 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:130 - Successfully navigated to Blood Pressure section
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:56 - Validating the calculator form heading on Home page
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:58 - Form heading is present
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:140 - Navigating to Age Factor page from Home
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:143 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:145 - Successfully navigated to Age Factor section
+2026-01-14 14:48:35 INFO  TC002_HomePageValidationTest:68 - Validating the fields in the calculator form on Home page
+2026-01-14 14:48:36 INFO  TC002_HomePageValidationTest:70 - All required calculator form fields are present
+2026-01-14 14:48:36 INFO  TC002_HomePageValidationTest:155 - Navigating to Team Details page from Home
+2026-01-14 14:48:36 INFO  TC002_HomePageValidationTest:158 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:48:36 INFO  TC002_HomePageValidationTest:160 - Successfully navigated to Team Details section
+2026-01-14 14:48:36 INFO  TC002_HomePageValidationTest:80 - Validating the presence of the top navigation bar on Home page
+2026-01-14 14:48:37 INFO  TC002_HomePageValidationTest:82 - Top navigation bar is present
+2026-01-14 14:48:37 INFO  TC002_HomePageValidationTest:87 - **** Finished TC002_HomePageValidationTest ****
+2026-01-14 14:48:37 INFO  TC002_HomePageValidationTest:170 - Navigating to Home page via logo text
+2026-01-14 14:48:37 INFO  TC002_HomePageValidationTest:173 - Current URL after navigating via logo text: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:48:37 INFO  TC002_HomePageValidationTest:175 - Successfully navigated to Home via logo text
+2026-01-14 14:48:37 INFO  TC002_HomePageValidationTest:180 - **** Finished TC003_HomePageFunctionalityTest ****
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:24 - **** Started TC004_HeartPulsePageValidationTest ****
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:26 - Navigating to Heart Pulse section
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:29 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:31 - Successfully navigated to Heart Pulse section
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:118 - Navigating to Home section from Heart Pulse page
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:121 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:123 - Successfully navigated to Home section
+2026-01-14 14:48:50 INFO  TC003_HeartPulsePageValidationTest:41 - Validating the presence of top navigation bar on Heart Pulse page
+2026-01-14 14:48:51 INFO  TC003_HeartPulsePageValidationTest:43 - Top navigation bar is present
+2026-01-14 14:48:51 INFO  TC003_HeartPulsePageValidationTest:133 - Navigating to Blood Pressure section from Heart Pulse/Home
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:136 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:138 - Successfully navigated to Blood Pressure section
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:53 - Validating the main heading on Heart Pulse page
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:55 - Main heading is present
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:148 - Navigating to Age Factor section
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:151 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:153 - Successfully navigated to Age Factor section
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:65 - Validating the sub-heading on Heart Pulse page
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:67 - Sub-heading is present
+2026-01-14 14:48:52 INFO  TC003_HeartPulsePageValidationTest:163 - Navigating to Team Details section
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:166 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:168 - Successfully navigated to Team Details section
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:173 - **** Finished TC005_HeartPulseFunctionalityTest ****
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:77 - Validating the informational text/description on Heart Pulse page
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:79 - Informational text is present
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:89 - Validating the pulse rate table on Heart Pulse page
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:91 - Pulse rate table is present
+2026-01-14 14:48:53 INFO  TC003_HeartPulsePageValidationTest:96 - **** Finished TC004_HeartPulsePageValidationTest ****
+2026-01-14 14:49:07 INFO  TC004_BloodPressurePageValidationTest:26 - **** Started TC006_BloodPressurePageValidationTest ****
+2026-01-14 14:49:07 INFO  TC004_BloodPressurePageValidationTest:28 - Navigating to Blood Pressure section via top navigation
+2026-01-14 14:49:08 INFO  TC004_BloodPressurePageValidationTest:31 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:49:08 INFO  TC004_BloodPressurePageValidationTest:33 - Successfully navigated to Blood Pressure section
+2026-01-14 14:49:08 INFO  TC004_BloodPressurePageValidationTest:96 - Navigating to Home section from Blood Pressure page
+2026-01-14 14:49:08 INFO  TC004_BloodPressurePageValidationTest:99 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:49:08 INFO  TC004_BloodPressurePageValidationTest:101 - Successfully navigated to Home section
+2026-01-14 14:49:08 INFO  TC004_BloodPressurePageValidationTest:43 - Validating the presence of the top navigation bar on Blood Pressure page
+2026-01-14 14:49:09 INFO  TC004_BloodPressurePageValidationTest:45 - Top navigation bar is present on Blood Pressure page
+2026-01-14 14:49:09 INFO  TC004_BloodPressurePageValidationTest:111 - Navigating to Heart Pulse section from Blood Pressure/Home
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:114 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:116 - Successfully navigated to Heart Pulse section
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:55 - Validating the main heading on Blood Pressure page
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:57 - Main heading is present on Blood Pressure page
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:126 - Navigating to Age Factor section from Blood Pressure/Heart Pulse
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:129 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:131 - Successfully navigated to Age Factor section
+2026-01-14 14:49:10 INFO  TC004_BloodPressurePageValidationTest:67 - Validating the informational content/description on Blood Pressure page
+2026-01-14 14:49:11 INFO  TC004_BloodPressurePageValidationTest:69 - Informational content is present on Blood Pressure page
+2026-01-14 14:49:11 INFO  TC004_BloodPressurePageValidationTest:74 - **** Finished TC006_BloodPressurePageValidationTest ****
+2026-01-14 14:49:11 INFO  TC004_BloodPressurePageValidationTest:141 - Navigating to Team Details section
+2026-01-14 14:49:11 INFO  TC004_BloodPressurePageValidationTest:144 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:49:11 INFO  TC004_BloodPressurePageValidationTest:146 - Successfully navigated to Team Details section
+2026-01-14 14:49:11 INFO  TC004_BloodPressurePageValidationTest:151 - **** Finished TC007_BloodPressureFunctionalityTest ****
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:26 - **** Started TC008_AgeFactorPageValidation ****
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:28 - Navigating to Age Factor section via top navigation
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:31 - Current URL after navigation: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:33 - Successfully navigated to Age Factor section
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:96 - Navigating to Home section from Age Factor page
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:99 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:101 - Successfully navigated to Home section
+2026-01-14 14:49:24 INFO  TC005_AgeFactorPageValidation:43 - Validating the presence of the top navigation bar on Age Factor page
+2026-01-14 14:49:25 INFO  TC005_AgeFactorPageValidation:45 - Top navigation bar is present on Age Factor page
+2026-01-14 14:49:25 INFO  TC005_AgeFactorPageValidation:111 - Navigating to Heart Pulse section from Age Factor/Home
+2026-01-14 14:49:25 INFO  TC005_AgeFactorPageValidation:114 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:49:25 INFO  TC005_AgeFactorPageValidation:116 - Successfully navigated to Heart Pulse section
+2026-01-14 14:49:25 INFO  TC005_AgeFactorPageValidation:55 - Validating the main heading on Age Factor page
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:57 - Main heading is present on Age Factor page
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:126 - Navigating to Blood Pressure section from Age Factor/Heart Pulse
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:129 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:131 - Successfully navigated to Blood Pressure section
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:67 - Validating the informational content/description on Age Factor page
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:69 - Informational content is present on Age Factor page
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:74 - **** Finished TC008_AgeFactorPageValidation ****
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:141 - Navigating to Team Details section from Age Factor
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:144 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:146 - Successfully navigated to Team Details section
+2026-01-14 14:49:26 INFO  TC005_AgeFactorPageValidation:151 - **** Finished TC009_AgeFactorPageFunctionalityValidation ****
+2026-01-14 14:49:41 INFO  TC006_TeamDetailsPageValidation:26 - **** Started TC010_TeamDetailsPageValidation ****
+2026-01-14 14:49:41 INFO  TC006_TeamDetailsPageValidation:28 - Navigating to Team Details section via top navigation
+2026-01-14 14:49:42 INFO  TC006_TeamDetailsPageValidation:31 - Current URL after navigating to Team Details: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#foot
+2026-01-14 14:49:42 INFO  TC006_TeamDetailsPageValidation:33 - Successfully navigated to Team Details section
+2026-01-14 14:49:42 INFO  TC006_TeamDetailsPageValidation:96 - Navigating to Home section from Team Details page
+2026-01-14 14:49:43 INFO  TC006_TeamDetailsPageValidation:99 - Current URL after navigating to Home: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#container
+2026-01-14 14:49:43 INFO  TC006_TeamDetailsPageValidation:101 - Successfully navigated to Home section
+2026-01-14 14:49:43 INFO  TC006_TeamDetailsPageValidation:43 - Validating the presence of the top navigation bar on Team Details page
+2026-01-14 14:49:44 INFO  TC006_TeamDetailsPageValidation:45 - Top navigation bar is present on Team Details page
+2026-01-14 14:49:44 INFO  TC006_TeamDetailsPageValidation:111 - Navigating to Blood Pressure section from Team Details/Home
+2026-01-14 14:49:44 INFO  TC006_TeamDetailsPageValidation:114 - Current URL after navigating to Blood Pressure: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#bloodPressure
+2026-01-14 14:49:44 INFO  TC006_TeamDetailsPageValidation:116 - Successfully navigated to Blood Pressure section
+2026-01-14 14:49:44 INFO  TC006_TeamDetailsPageValidation:55 - Validating the main heading on Team Details page
+2026-01-14 14:49:44 INFO  TC006_TeamDetailsPageValidation:57 - Main heading is present on Team Details page
+2026-01-14 14:49:44 INFO  TC006_TeamDetailsPageValidation:126 - Navigating to Heart Pulse section from Team Details/Blood Pressure
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:129 - Current URL after navigating to Heart Pulse: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#pulseRate
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:131 - Successfully navigated to Heart Pulse section
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:67 - Validating that team member details are displayed on Team Details page
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:69 - Team details are displayed on Team Details page
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:74 - **** Finished TC010_TeamDetailsPageValidation ****
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:141 - Navigating to Age Factor section from Team Details/Heart Pulse
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:144 - Current URL after navigating to Age Factor: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/#ageFactor
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:146 - Successfully navigated to Age Factor section
+2026-01-14 14:49:45 INFO  TC006_TeamDetailsPageValidation:151 - **** Finished TC011_TeamDetailsFunctionalityValidation ****
+2026-01-14 14:50:04 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:04 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 0 | Pulse: 60 | BP: 70/31 | Type: Negative | Expected: Positive
+2026-01-14 14:50:04 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 0
+2026-01-14 14:50:04 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 60
+2026-01-14 14:50:05 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 70/31
+2026-01-14 14:50:05 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 1 | Pulse: 72 | BP: 120/80 | Type: Positive | Expected: Positive
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 1
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:50:06 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 120/80
+2026-01-14 14:50:07 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:07 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 69.5 | Pulse: 25 | BP: 160/91 | Type: Negative | Expected: Negative
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 69.5
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 25
+2026-01-14 14:50:11 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 160/91
+2026-01-14 14:50:12 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:12 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:50:15 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:16 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:16 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: -20 | Pulse: 26 | BP: 170/90 | Type: Negative | Expected: Positive
+2026-01-14 14:50:16 INFO  TC007_CalculatorValidationTest:96 - Entering Age: -20
+2026-01-14 14:50:16 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 26
+2026-01-14 14:50:17 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 170/90
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 130 | Pulse: 27 | BP: 140/60 | Type: Negative | Expected: Positive
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 130
+2026-01-14 14:50:18 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 27
+2026-01-14 14:50:19 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/60
+2026-01-14 14:50:19 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: abc | Pulse: 85 | BP: 135/70 | Type: Negative | Expected: Positive
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:96 - Entering Age: abc
+2026-01-14 14:50:20 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 85
+2026-01-14 14:50:21 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 135/70
+2026-01-14 14:50:21 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 25 | Pulse: 60 | BP: 160/70 | Type: Positive | Expected: Positive
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 25
+2026-01-14 14:50:22 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 60
+2026-01-14 14:50:23 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 160/70
+2026-01-14 14:50:23 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:24 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 25 | Pulse: -25 | BP: 165/75 | Type: Negative | Expected: Negative
+2026-01-14 14:50:27 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 25
+2026-01-14 14:50:28 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: -25
+2026-01-14 14:50:28 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 165/75
+2026-01-14 14:50:29 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:29 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 45 | Pulse: abc | BP: 130/85 | Type: Negative | Expected: Positive
+2026-01-14 14:50:33 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 45
+2026-01-14 14:50:34 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: abc
+2026-01-14 14:50:34 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 130/85
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 69.5 | BP: 125/82 | Type: Negative | Expected: Negative
+2026-01-14 14:50:35 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:50:36 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 69.5
+2026-01-14 14:50:36 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125/82
+2026-01-14 14:50:37 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:38 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:50:41 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:42 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:42 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 70 | BP: 140/70 | Type: Positive | Expected: Positive
+2026-01-14 14:50:42 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:50:42 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 70
+2026-01-14 14:50:43 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/70
+2026-01-14 14:50:43 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:44 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 0 | BP: 145/70 | Type: Negative | Expected: Negative
+2026-01-14 14:50:47 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:50:48 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 0
+2026-01-14 14:50:48 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 145/70
+2026-01-14 14:50:48 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:49 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:50:52 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:53 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:50:53 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 50 | Pulse: 9000 | BP: 140/60 | Type: Negative | Expected: Negative
+2026-01-14 14:50:53 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 50
+2026-01-14 14:50:54 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 9000
+2026-01-14 14:50:54 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/60
+2026-01-14 14:50:55 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:50:55 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:50:58 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:50:58 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:50:58 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:50:58 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:50:58 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:50:58 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:50:59 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:50:59 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:00 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:00 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 30 | Pulse: 70 | BP: 140/70 | Type: Positive | Expected: Positive
+2026-01-14 14:51:00 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 30
+2026-01-14 14:51:00 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 70
+2026-01-14 14:51:01 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 140/70
+2026-01-14 14:51:01 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:01 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 29 | Pulse: 70 | BP: 120/Eighty | Type: Negative | Expected: Positive
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 29
+2026-01-14 14:51:05 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 70
+2026-01-14 14:51:06 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 120/Eighty
+2026-01-14 14:51:06 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 10 | Pulse: 62 | BP: One hundred and twenty /200 | Type: Negative | Expected: Positive
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 10
+2026-01-14 14:51:07 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 62
+2026-01-14 14:51:08 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: One hundred and twenty /200
+2026-01-14 14:51:08 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 18 | Pulse: 72 | BP: 135.5/65 | Type: Negative | Expected: Positive
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 18
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:51:09 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 135.5/65
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 18 | Pulse: 72 | BP: 155/62.7 | Type: Negative | Expected: Positive
+2026-01-14 14:51:10 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 18
+2026-01-14 14:51:11 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:51:11 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 155/62.7
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 19 | Pulse: 82 | BP: 0/0 | Type: Negative | Expected: Negative
+2026-01-14 14:51:12 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 19
+2026-01-14 14:51:13 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 82
+2026-01-14 14:51:13 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 0/0
+2026-01-14 14:51:14 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:14 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:17 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:51:17 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:51:17 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:51:17 INFO  TC007_CalculatorValidationTest:161 - Expecting no navigation to result page for invalid inputs
+2026-01-14 14:51:17 INFO  TC007_CalculatorValidationTest:164 - Unexpected navigation to result page for invalid inputs
+2026-01-14 14:51:17 INFO  TC007_CalculatorValidationTest:166 - Navigating back to the previous page
+2026-01-14 14:51:18 INFO  TC007_CalculatorValidationTest:183 - Soft assertions failed for this iteration: The following asserts failed:
+	Invalid inputs navigated to the result page
+2026-01-14 14:51:18 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:19 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:19 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 25 | Pulse: 72 | BP: 125-82 | Type: Negative | Expected: Positive
+2026-01-14 14:51:19 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 25
+2026-01-14 14:51:19 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 72
+2026-01-14 14:51:19 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125-82
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 27 | Pulse: 67 | BP: /85 | Type: Negative | Expected: Positive
+2026-01-14 14:51:20 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 27
+2026-01-14 14:51:21 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 67
+2026-01-14 14:51:21 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: /85
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 27 | Pulse: 67 | BP: 125/ | Type: Negative | Expected: Positive
+2026-01-14 14:51:22 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 27
+2026-01-14 14:51:23 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 67
+2026-01-14 14:51:23 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125/
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 37 | Pulse: 77 | BP: 125/82 | Type: Positive | Expected: Positive
+2026-01-14 14:51:24 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 37
+2026-01-14 14:51:25 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 77
+2026-01-14 14:51:25 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 125/82
+2026-01-14 14:51:25 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:26 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:123 - No alert appeared within timeout
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:143 - No alert appeared. Verifying navigation result.
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:146 - Current URL: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:149 - Expecting navigation to result page for valid inputs
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:152 - Navigation to result page succeeded for valid inputs
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:154 - Navigating back to the previous page
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:90 - **** Started TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:91 - Test data => Age: 37 | Pulse: 77 | BP: 136 | Type: Negative | Expected: Positive
+2026-01-14 14:51:29 INFO  TC007_CalculatorValidationTest:96 - Entering Age: 37
+2026-01-14 14:51:30 INFO  TC007_CalculatorValidationTest:99 - Entering Pulse Rate: 77
+2026-01-14 14:51:30 INFO  TC007_CalculatorValidationTest:102 - Entering Blood Pressure: 136
+2026-01-14 14:51:30 INFO  TC007_CalculatorValidationTest:113 - Clicking Calculate button
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:119 - Waiting for alert presence (3 seconds)
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:130 - Alert appeared. Accepting alert.
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:133 - Alert appeared for invalid inputs as expected
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:181 - Soft assertions passed for this iteration
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:186 - **** Finished TC013_CalculatorFunctionalityTest iteration ****
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:28 - **** Started TC012_CalculatorValidationTest ****
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:30 - Validating that the calculator form heading is present
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:32 - Calculator form heading is present
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:42 - Validating that the Age field is present in the calculator form
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:44 - Age field is present
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:54 - Validating that the Pulse Rate field is present in the calculator form
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:56 - Pulse Rate field is present
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:66 - Validating that the Blood Pressure field is present in the calculator form
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:68 - Blood Pressure field is present
+2026-01-14 14:51:31 INFO  TC007_CalculatorValidationTest:78 - Validating that the Calculate button is present and clickable
+2026-01-14 14:51:32 INFO  TC007_CalculatorValidationTest:80 - Calculate button is present and clickable
+2026-01-14 14:51:32 INFO  TC007_CalculatorValidationTest:85 - **** Finished TC012_CalculatorValidationTest ****
+2026-01-14 14:51:44 INFO  TC008_ResultsPageValidationTest:36 - **** Started TC014_ResultsPageUITest ****
+2026-01-14 14:51:44 INFO  TC008_ResultsPageValidationTest:38 - Entering valid inputs into Calculator Form
+2026-01-14 14:51:44 INFO  TC008_ResultsPageValidationTest:39 - Entering Age: 20
+2026-01-14 14:51:44 INFO  TC008_ResultsPageValidationTest:42 - Entering Pulse Rate: 60
+2026-01-14 14:51:44 INFO  TC008_ResultsPageValidationTest:45 - Entering Blood Pressure: 120/80
+2026-01-14 14:51:45 INFO  TC008_ResultsPageValidationTest:48 - Clicking Calculate to navigate to Result page
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:52 - Current URL after clicking Calculate: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:55 - Validating Result Page UI elements
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:58 - Logo is visible
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:61 - Logo text is visible
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:64 - Result box is visible
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:67 - Heading is visible
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:70 - Result is displayed
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:73 - Feedback box is present
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:79 - **** Finished TC014_ResultsPageUITest ****
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:86 - **** Started TC015_ResultPageFunctionalityTest :: resultPageCheck iteration ****
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:87 - Input dataset => Age: 30 | Pulse: 70 | BP: 120/30
+2026-01-14 14:51:46 INFO  TC008_ResultsPageValidationTest:91 - Entering Age: 30
+2026-01-14 14:51:47 INFO  TC008_ResultsPageValidationTest:95 - Entering Pulse Rate: 70
+2026-01-14 14:51:47 INFO  TC008_ResultsPageValidationTest:98 - Entering Blood Pressure: 120/30
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:101 - Clicking Calculate to navigate to Result page
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:105 - Current URL after Calculate: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:108 - Validating redirection to Result page: https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/result.html
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:117 - Soft assertions passed for this resultPageCheck iteration
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:122 - **** Finished TC015_ResultPageFunctionalityTest :: resultPageCheck iteration ****
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:129 - **** TC015 :: isScrollable validation started ****
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:132 - Located feedback textarea by id=feedback
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:138 - Textarea scrollHeight: 184, clientHeight: 76
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:142 - Textarea is scrollable as expected
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:157 - Soft assertions passed for isScrollable
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:162 - **** TC015 :: isScrollable validation finished ****
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:169 - **** TC015 :: isResizable validation started ****
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:172 - Located feedback textarea by id=feedback
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:175 - Textarea CSS 'resize' value: vertical
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:179 - Textarea is resizable as expected
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:194 - Soft assertions passed for isResizable
+2026-01-14 14:51:48 INFO  TC008_ResultsPageValidationTest:199 - **** TC015 :: isResizable validation finished ****

@@ -1,0 +1,31 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="false">
+
+    <groups>
+        <run>
+            <include name="UI"/>
+            <include name="Functionality"/>
+<!--            <exclude name="Regression"/>-->
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="utils.ExtentReportManager"/>
+    </listeners>
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <test thread-count="5" name="Test">
+
+        <classes>
+            <class name="TestCases.TC001_URL_Validation"/>
+            <class name="TestCases.TC002_HomePageValidationTest"/>
+            <class name="TestCases.TC003_HeartPulsePageValidationTest"/>
+            <class name="TestCases.TC004_BloodPressurePageValidationTest"/>
+            <class name="TestCases.TC005_AgeFactorPageValidation"/>
+            <class name="TestCases.TC006_TeamDetailsPageValidation"/>
+            <class name="TestCases.TC007_CalculatorValidationTest"/>
+            <class name="TestCases.TC008_ResultsPageValidationTest"/>
+
+        </classes>
+    </test>
+</suite>
