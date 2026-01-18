@@ -13,9 +13,9 @@ public class DataParsing {
 
    public Object[][] parseExcel() throws IOException {
 
-        FileInputStream file=new FileInputStream("C:\\Users\\2457784\\IdeaProjects\\Health_Index_Calculator\\TestData\\TestData.xlsx");
+        FileInputStream file=new FileInputStream("C:\\Users\\2457784\\IdeaProjects\\Health_Index_Calculator\\TestData\\AllSuccessTests.xlsx");
         XSSFWorkbook workbook=new XSSFWorkbook(file);
-        XSSFSheet sheet=workbook.getSheet("Sheet2");
+        XSSFSheet sheet=workbook.getSheet("Sheet1");
         int rows=sheet.getLastRowNum();
         int cols=sheet.getRow(1).getLastCellNum();
 

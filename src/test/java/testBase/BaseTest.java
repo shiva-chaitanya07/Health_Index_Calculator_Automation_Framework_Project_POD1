@@ -8,10 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Optional;
-import org.testng.annotations.Parameters;
+import org.testng.annotations.*;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -25,13 +22,14 @@ import java.util.Date;
 import java.util.Properties;
 
 public class BaseTest {
-    public static WebDriver driver;
+    public WebDriver driver;
     protected String baseUrl="https://hackvyatharth.github.io/Vitalguard_Team_Vanguardians/";
     public Logger logger;
     public Properties p;
-    @BeforeClass(alwaysRun = true,groups = {"Sanity","Regression","Master"})
+
     @Parameters({"os","browser"})
-    public void setUp(@Optional("Windows") String os,@Optional("chrome") String browser) throws IOException {
+    @BeforeMethod(alwaysRun = true,groups = {"Sanity","Regression","Master"})
+    public void setUp(String os,String browser) throws IOException {
         FileReader file=new FileReader("C:\\Users\\2457784\\IdeaProjects\\Health_Index_Calculator\\src\\test\\resources\\config.properties");
         p=new Properties();
         p.load(file);
@@ -53,11 +51,21 @@ public class BaseTest {
     }
 
 
-    @AfterClass(alwaysRun = true,groups = {"Sanity","Regression","Master"})
+    @AfterMethod(alwaysRun = true,groups = {"Sanity","Regression","Master"})
     public void tearDown() {
-        if (driver != null) {
+//        try{
+//            if (driver != null) {
+//                driver.quit();
+//            }
+//        } catch (RuntimeException e) {
+//            throw new RuntimeException(e);
+//        }
+        if(driver!=null){
             driver.quit();
+
         }
+
+
     }
 
     public String captureScreen(String name) throws IOException{

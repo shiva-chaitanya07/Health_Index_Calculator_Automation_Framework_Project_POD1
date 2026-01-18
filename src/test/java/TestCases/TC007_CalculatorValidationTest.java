@@ -102,7 +102,7 @@ public class TC007_CalculatorValidationTest extends BaseTest {
             logger.info("Entering Blood Pressure: " + bp);
             cf.enterBloodPressure(bp);
         } catch (Exception ex) {
-            logger.info("Exception while entering input values: " + ex.getMessage());
+            logger.error("Exception while entering input values: " + ex.getMessage());
             // We keep the flow to allow SoftAssert to conclude.
         }
 
@@ -120,7 +120,7 @@ public class TC007_CalculatorValidationTest extends BaseTest {
             alert = new WebDriverWait(driver, Duration.ofSeconds(3))
                     .until(ExpectedConditions.alertIsPresent());
         } catch (TimeoutException ignored) {
-            logger.info("No alert appeared within timeout");
+            logger.error("No alert appeared within timeout");
         }
 
         boolean validInputs = type.equalsIgnoreCase("positive");
@@ -133,10 +133,10 @@ public class TC007_CalculatorValidationTest extends BaseTest {
                 logger.info("Alert appeared for invalid inputs as expected");
                 sa.assertTrue(true, "Invalid inputs are generating alerts");
             } else if (validInputs) {
-                logger.info("Unexpected alert for valid inputs");
+                logger.error("Unexpected alert for valid inputs");
                 sa.fail("Valid inputs are generating alerts");
             } else {
-                logger.info("Unrecognized test type: " + testType);
+                logger.error("Unrecognized test type: " + testType);
                 sa.fail("Unrecognized test type led to alert handling ambiguity");
             }
         } else {
@@ -154,14 +154,14 @@ public class TC007_CalculatorValidationTest extends BaseTest {
                     logger.info("Navigating back to the previous page");
                     driver.navigate().back();
                 } else {
-                    logger.info("Navigation to result page failed for valid inputs");
+                    logger.error("Navigation to result page failed for valid inputs");
                     sa.fail("Valid inputs did not navigate to the result page");
                 }
             } else if (invalidInputs) {
                 logger.info("Expecting no navigation to result page for invalid inputs");
                 boolean navigated = currUrl.equals(resultUrl);
                 if (navigated) {
-                    logger.info("Unexpected navigation to result page for invalid inputs");
+                    logger.error("Unexpected navigation to result page for invalid inputs");
                     sa.fail("Invalid inputs navigated to the result page");
                     logger.info("Navigating back to the previous page");
                     driver.navigate().back();
@@ -170,21 +170,24 @@ public class TC007_CalculatorValidationTest extends BaseTest {
                     sa.assertTrue(true, "Invalid inputs did not navigate to the result page");
                 }
             } else {
-                logger.info("Unrecognized test type: " + testType);
+                logger.error("Unrecognized test type: " + testType);
                 sa.fail("Unrecognized test type: " + testType);
             }
         }
 
         // Final assertion for this data set
-        try {
-            sa.assertAll();
-            logger.info("Soft assertions passed for this iteration");
-        } catch (AssertionError ae) {
-            logger.info("Soft assertions failed for this iteration: " + ae.getMessage());
-            throw ae; // Re-throw to mark the test iteration as failed
-        } finally {
-            logger.info("**** Finished TC013_CalculatorFunctionalityTest iteration ****");
-        }
+//        try {
+//            sa.assertAll();
+//            logger.info("Soft assertions passed for this iteration");
+//        } catch (AssertionError ae) {
+//            logger.error("Soft assertions failed for this iteration: " + ae.getMessage());
+//            sa.fail();
+//            throw ae; // Re-throw to mark the test iteration as failed
+//        } finally {
+//            logger.info("**** Finished TC013_CalculatorFunctionalityTest iteration ****");
+//        }
+        sa.assertAll();
+
     }
 
 }

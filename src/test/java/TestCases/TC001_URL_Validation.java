@@ -49,7 +49,6 @@ public class TC001_URL_Validation extends BaseTest {
         try {
             logger.info("Validating that the homepage is loaded and key UI elements are present");
             boolean homeLoaded = hp.isLeftImagePresent();
-            logger.info("hiiiii {}--------------------------------------------------------------",homeLoaded);
             assertTrue(homeLoaded, "Home page should be loaded with navbar, left image, and calculator fields");
             logger.info("Homepage is loaded successfully with navbar, left image, and calculator fields");
         } catch (AssertionError e) {
