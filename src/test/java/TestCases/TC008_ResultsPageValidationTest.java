@@ -124,10 +124,14 @@ public class TC008_ResultsPageValidationTest extends BaseTest {
         }
     }
 
-    @Test(priority = 3, groups = {"Sanity","Master","Functionality"})
-    void isScrollable() {
+    @Test(priority = 3, groups = {"Sanity","Master","Functionality"},dataProvider = "resultPageCheck", dataProviderClass = MainDataProvider.class)
+    void isScrollable(String age, String pulse, String bp) {
         logger.info("**** TC015 :: isScrollable validation started ****");
         try {
+            cf.enterAge(age);
+            cf.enterPulse(pulse);
+            cf.enterBloodPressure(bp);
+            cf.clickCalculate();
             WebElement textArea = driver.findElement(By.id("feedback"));
             logger.info("Located feedback textarea by id=feedback");
 
@@ -164,10 +168,14 @@ public class TC008_ResultsPageValidationTest extends BaseTest {
         }
     }
 
-    @Test(priority = 4, groups = {"Sanity","Master","Functionality"})
-    void isResizable() {
+    @Test(priority = 4, groups = {"Sanity","Master","Functionality"},dataProvider = "resultPageCheck", dataProviderClass = MainDataProvider.class)
+    void isResizable(String age, String pulse, String bp) {
         logger.info("**** TC015 :: isResizable validation started ****");
         try {
+            cf.enterAge(age);
+            cf.enterPulse(pulse);
+            cf.enterBloodPressure(bp);
+            cf.clickCalculate();
             WebElement textArea = driver.findElement(By.id("feedback"));
             logger.info("Located feedback textarea by id=feedback");
 
